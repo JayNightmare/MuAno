@@ -15,6 +15,7 @@ Focus: Maintainability, readability, DRY, SOLID, security, strict TS, Accessibil
 - [COMPLETED] V1.1 Features (Undo/Redo, Drag Creation, Settings)
 - [COMPLETED] Fixed note audio playback mapping to playhead bounds.
 - [COMPLETED] Timeline auto-scroll implementation.
+- [COMPLETED] GitHub Pages deployment script and SEO attributes implemented.
 
 # Architectural Decisions
 
